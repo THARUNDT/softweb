@@ -1188,10 +1188,14 @@ contact.html
 
 
 ## OUTPUT:
-![Alt text](1.png)
-![Alt text](2.png)
-![Alt text](3.png)
-![Alt text](4.png)
+![1](https://github.com/THARUNDT/softweb/assets/144871537/51b92afa-4c90-417c-bdea-849b5931be48)
+![2](https://github.com/THARUNDT/softweb/assets/144871537/81b212c5-8b34-45fd-8053-76fa52a8281e)
+![3](https://github.com/THARUNDT/softweb/assets/144871537/3c0e4738-7498-4749-8fef-05b0441ea47f)
+![4](https://github.com/THARUNDT/softweb/assets/144871537/cbb05ed5-959b-4523-9592-f05d7dc3891e)
+
+
+
+
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
