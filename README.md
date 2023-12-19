@@ -1190,8 +1190,9 @@ contact.html
 ## OUTPUT:
 ![1](https://github.com/THARUNDT/softweb/assets/144871537/51b92afa-4c90-417c-bdea-849b5931be48)
 ![2](https://github.com/THARUNDT/softweb/assets/144871537/81b212c5-8b34-45fd-8053-76fa52a8281e)
-![3](https://github.com/THARUNDT/softweb/assets/144871537/3c0e4738-7498-4749-8fef-05b0441ea47f)
-![4](https://github.com/THARUNDT/softweb/assets/144871537/cbb05ed5-959b-4523-9592-f05d7dc3891e)
+![3](https://github.com/THARUNDT/softweb/assets/144871537/ef3825eb-7112-4477-866d-7907a1793388)
+![4](https://github.com/THARUNDT/softweb/assets/144871537/d11c82e4-103e-4067-9954-ae7632786ee8)
+
 
 
 
